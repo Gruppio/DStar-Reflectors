@@ -35,5 +35,7 @@ jobs:
           
       - name: Commit
         run: |
+          git config --global user.email "github_actions@gmail.com"
+          git config --global user.name "Github Actions"
           git add -A
           git commit -m "Update"
