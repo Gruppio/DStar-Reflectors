@@ -39,3 +39,4 @@ jobs:
           git config --global user.name "Github Actions"
           git add -A
           git commit -m "Update"
+          git push
