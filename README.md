@@ -154,8 +154,11 @@ Wednesday | ■■■■■■■■■■■■■■■■■■■ 3400
 ## Most used suffix of the year
 
 | Suffix | Users | 
-| --- | --- | 
-| Suffix | Users | 
+| AA | AAA | 
+| AA | AAA | 
+| AA | AAA | 
+| AA | AAA | 
+| AA | AAA | 
 
 ## AA
 
