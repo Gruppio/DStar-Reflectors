@@ -154,7 +154,13 @@ Wednesday | ■■■■■■■■■■■■■■■■■■■ 3400
 ## Most used suffix of the year
 
 | Suffix | Users | 
-| ---: | :--- | 
+| --- | --- | 
+| Suffix | Users | 
+
+## AA
+
+| Suffix | Users | 
+| --- | --- | 
 | **DMR** | 5358 | 
 | **PNUT** | 896 | 
 | **AMBE** | 500 | 
