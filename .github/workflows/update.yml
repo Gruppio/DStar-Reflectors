@@ -1,0 +1,32 @@
+name: Update
+on:		
+  schedule:		
+    - cron:  '*/15 * * * *'	
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Update Readme
+        run: curl -s -O README.md $REFLECTORS_HOST/api/generateReport
+        env:
+          REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
+          
+      - name: Update UR
+        run: |
+          curl -s -O UR_CALLS/Global.csv $REFLECTORS_HOST/api/ur
+          curl -s -O UR_CALLS/Italy.csv $REFLECTORS_HOST/api/ur/IT
+          curl -s -O UR_CALLS/United_States_of_America.csv $REFLECTORS_HOST/api/ur/US
+          curl -s -O UR_CALLS/United_Kingdom.csv $REFLECTORS_HOST/api/ur/EN
+          curl -s -O UR_CALLS/Brasil.csv $REFLECTORS_HOST/api/BR
+          curl -s -O UR_CALLS/Germany.csv $REFLECTORS_HOST/api/ur/DE
+          curl -s -O UR_CALLS/France.csv $REFLECTORS_HOST/api/ur/FR
+          curl -s -O UR_CALLS/Japan.csv $REFLECTORS_HOST/api/ur/JP
+          curl -s -O UR_CALLS/Canada.csv $REFLECTORS_HOST/api/ur/CA
+          curl -s -O UR_CALLS/Sweden.csv $REFLECTORS_HOST/api/ur/SW
+          curl -s -O UR_CALLS/Portugal.csv $REFLECTORS_HOST/api/ur/PT
+          curl -s -O UR_CALLS/Australia.csv $REFLECTORS_HOST/api/ur/AU
+          curl -s -O UR_CALLS/Thailand.csv $REFLECTORS_HOST/api/ur/TH
+        env:
+          REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
