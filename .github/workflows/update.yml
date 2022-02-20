@@ -30,3 +30,8 @@ jobs:
           curl -s -O UR_CALLS/Thailand.csv $REFLECTORS_HOST/api/ur/TH
         env:
           REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
+          
+      - name: Commit
+        run: |
+          git add -A
+          git commit -m "Update"
