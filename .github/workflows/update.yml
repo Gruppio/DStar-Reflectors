@@ -28,6 +28,7 @@ jobs:
           curl -s -o UR_CALLS/Portugal.csv $REFLECTORS_HOST/api/ur/PT
           curl -s -o UR_CALLS/Australia.csv $REFLECTORS_HOST/api/ur/AU
           curl -s -o UR_CALLS/Thailand.csv $REFLECTORS_HOST/api/ur/TH
+          curl -s -o UR_CALLS/Russia.csv $REFLECTORS_HOST/api/ur/RU
         env:
           REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
           
