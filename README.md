@@ -41,8 +41,8 @@ Wednesday | ■■■■■■■■■■■■■■■■■■■ 3400
 
 ## Top 50 reflectors of the month
 
-| Rank | Reflector | Users | Country | 
-| ---: | :---: | :---: | :--- | 
+| Rank | Reflector   | Users | Country | 
+| ---: | :---:       | :---: | :---    | 
 | *#1* | **XLX724C** | 503 | 🇧🇷 Brazil | 
 | *#2* | **XLX021B** | 412 | 🇩🇪 Germany | 
 | *#3* | **XLX724D** | 321 | 🇧🇷 Brazil | 
