@@ -17,7 +17,7 @@ jobs:
       - name: Update UR
         run: |
           curl -s -o UR_CALLS/Global.csv $REFLECTORS_HOST/api/ur
-          curl -s "$REFLECTORS_HOST/api/reflectorCountries" | jq '.[].code' | while read -r code; do curl -s -o "UR_CALLS/$code.csv" "$REFLECTORS_HOST/api/ur/$code"; done
+          curl -s $REFLECTORS_HOST/api/reflectorCountries | jq '.[].code' | while read -r code; do curl -s -o UR_CALLS/$code.csv $REFLECTORS_HOST/api/ur/$code; done
           
         env:
           REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
