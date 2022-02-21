@@ -10,12 +10,15 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: Update Readme
-        run: curl -s -o README.md $REFLECTORS_HOST/api/generateReport
+        run: |
+          rm README.md
+          curl -s -o README.md $REFLECTORS_HOST/api/generateReport
         env:
           REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
           
       - name: Update UR
         run: |
+          rm UR_CALLS/*
           curl -s -o UR_CALLS/Global.csv $REFLECTORS_HOST/api/ur
           curl -s "$REFLECTORS_HOST/api/reflectorCountries" | jq -r '.[].code' | while read -r code; do curl -s -o "UR_CALLS/$code.csv" "$REFLECTORS_HOST/api/ur/$code"; done
           
