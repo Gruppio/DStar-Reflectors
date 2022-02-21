@@ -17,26 +17,7 @@ jobs:
       - name: Update UR
         run: |
           curl -s -o UR_CALLS/Global.csv $REFLECTORS_HOST/api/ur
-          curl -s -o UR_CALLS/Italy.csv $REFLECTORS_HOST/api/ur/IT
-          curl -s -o UR_CALLS/United_States_of_America.csv $REFLECTORS_HOST/api/ur/US
-          curl -s -o UR_CALLS/United_Kingdom.csv $REFLECTORS_HOST/api/ur/GB
-          curl -s -o UR_CALLS/China.csv $REFLECTORS_HOST/api/CN
-          curl -s -o UR_CALLS/Germany.csv $REFLECTORS_HOST/api/ur/DE
-          curl -s -o UR_CALLS/France.csv $REFLECTORS_HOST/api/ur/FR
-          curl -s -o UR_CALLS/Japan.csv $REFLECTORS_HOST/api/ur/JP
-          curl -s -o UR_CALLS/Canada.csv $REFLECTORS_HOST/api/ur/CA
-          curl -s -o UR_CALLS/Sweden.csv $REFLECTORS_HOST/api/ur/SE
-          curl -s -o UR_CALLS/Portugal.csv $REFLECTORS_HOST/api/ur/PT
-          curl -s -o UR_CALLS/Austria.csv $REFLECTORS_HOST/api/ur/AU
-          curl -s -o UR_CALLS/Thailand.csv $REFLECTORS_HOST/api/ur/TH
-          curl -s -o UR_CALLS/Russia.csv $REFLECTORS_HOST/api/ur/RU
-          curl -s -o UR_CALLS/Switzerland.csv $REFLECTORS_HOST/api/ur/CH
-          curl -s -o UR_CALLS/Austria.csv $REFLECTORS_HOST/api/ur/AT
-          curl -s -o UR_CALLS/New_Zeland.csv $REFLECTORS_HOST/api/ur/NZ
-          curl -s -o UR_CALLS/Isralel.csv $REFLECTORS_HOST/api/ur/IL
-          curl -s -o UR_CALLS/Spain.csv $REFLECTORS_HOST/api/ur/ES
-          curl -s -o UR_CALLS/Netherlands.csv $REFLECTORS_HOST/api/ur/NL
-          curl -s -o UR_CALLS/Brazil.csv $REFLECTORS_HOST/api/ur/BR
+          curl -s "$REFLECTORS_HOST/api/reflectorCountries" | jq '.[].code' | while read -r code; do curl -s -o "UR_CALLS/$code.csv" "$REFLECTORS_HOST/api/ur/$code"; done
           
         env:
           REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
