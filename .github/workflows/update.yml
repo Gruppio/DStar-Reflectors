@@ -25,7 +25,7 @@ jobs:
           curl -s -o UR_CALLS/France.csv $REFLECTORS_HOST/api/ur/FR
           curl -s -o UR_CALLS/Japan.csv $REFLECTORS_HOST/api/ur/JP
           curl -s -o UR_CALLS/Canada.csv $REFLECTORS_HOST/api/ur/CA
-          curl -s -o UR_CALLS/Sweden.csv $REFLECTORS_HOST/api/ur/SW
+          curl -s -o UR_CALLS/Sweden.csv $REFLECTORS_HOST/api/ur/SE
           curl -s -o UR_CALLS/Portugal.csv $REFLECTORS_HOST/api/ur/PT
           curl -s -o UR_CALLS/Austria.csv $REFLECTORS_HOST/api/ur/AU
           curl -s -o UR_CALLS/Thailand.csv $REFLECTORS_HOST/api/ur/TH
@@ -36,6 +36,7 @@ jobs:
           curl -s -o UR_CALLS/Isralel.csv $REFLECTORS_HOST/api/ur/IL
           curl -s -o UR_CALLS/Spain.csv $REFLECTORS_HOST/api/ur/ES
           curl -s -o UR_CALLS/Netherlands.csv $REFLECTORS_HOST/api/ur/NL
+          curl -s -o UR_CALLS/Brazil.csv $REFLECTORS_HOST/api/ur/BR
           
         env:
           REFLECTORS_HOST: ${{ secrets.REFLECTORS_HOST }}
