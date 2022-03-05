@@ -206,55 +206,10 @@ Copy the CSV file in the SD card, then on your radio:
 `Menu -> Set -> SD Card -> Import/Export -> Import -> Repeater List`
 | Download Link | 
 | :--- | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/Global.csv">🌍 World URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/JP.csv">🇯🇵 Japan URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/US.csv">🇺🇸 United States URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/IT.csv">🇮🇹 Italy URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/GB.csv">🇬🇧 United Kingdom URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/DE.csv">🇩🇪 Germany URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/TH.csv">🇹🇭 Thailand URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/AT.csv">🇦🇹 Austria URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/FR.csv">🇫🇷 France URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/CA.csv">🇨🇦 Canada URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/NL.csv">🇳🇱 Netherlands URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/KR.csv">🇰🇷 South Korea URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/CN.csv">🇨🇳 China URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/AU.csv">🇦🇺 Australia URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/CZ.csv">🇨🇿 Czechia URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/SE.csv">🇸🇪 Sweden URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/PT.csv">🇵🇹 Portugal URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/PL.csv">🇵🇱 Poland URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/UA.csv">🇺🇦 Ukraine URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/LU.csv">🇱🇺 Luxembourg URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/BE.csv">🇧🇪 Belgium URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/CH.csv">🇨🇭 Switzerland URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/NZ.csv">🇳🇿 New Zealand URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/ES.csv">🇪🇸 Spain URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/RU.csv">🇷🇺 Russia URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/RO.csv">🇷🇴 Romania URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/BR.csv">🇧🇷 Brazil URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/TW.csv">🇹🇼 Taiwan URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/GR.csv">🇬🇷 Greece URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/BG.csv">🇧🇬 Bulgaria URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/PH.csv">🇵🇭 Philippines URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/MX.csv">🇲🇽 Mexico URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/UY.csv">🇺🇾 Uruguay URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/SI.csv">🇸🇮 Slovenia URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/IE.csv">🇮🇪 Ireland URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/HU.csv">🇭🇺 Hungary URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/TR.csv">🇹🇷 Turkey URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/IC.csv">🇮🇨 Canary Islands URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/CL.csv">🇨🇱 Chile URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/HR.csv">🇭🇷 Croatia URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/DK.csv">🇩🇰 Denmark URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/MY.csv">🇲🇾 Malaysia URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/NI.csv">🇳🇮 Nicaragua URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/IL.csv">🇮🇱 Israel URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/ZA.csv">🇿🇦 South Africa URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/PA.csv">🇵🇦 Panama URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/AR.csv">🇦🇷 Argentina URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/SV.csv">🇸🇻 El Salvador URCalls</a> | 
-| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/PE.csv">🇵🇪 Peru URCalls</a> | 
+| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/Global.csv"> 🌍 World URCalls</a> | 
+| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/JP.csv"> 🇯🇵 Japan URCalls</a> | 
+| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/US.csv"> 🇺🇸 United States URCalls</a> | 
+| <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/IT.csv"> 🇮🇹 Italy URCalls</a> | 
 
 ----------------------------------------
 
