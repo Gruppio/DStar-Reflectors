@@ -204,6 +204,7 @@ Every CSV file contains the 50 most used country reflectors
 *Before import the files please perform a backup of your existing repeater list*
 Copy the CSV file in the SD card, then on your radio:
 `Menu -> Set -> SD Card -> Import/Export -> Import -> Repeater List`
+
 | Download Link | 
 | :--- | 
 | <a id="raw-url" href="https://raw.githubusercontent.com/Gruppio/DStar-Reflectors/main/UR_CALLS/Global.csv"> 🌍 World URCalls</a> | 
