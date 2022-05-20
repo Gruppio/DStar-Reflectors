@@ -3,8 +3,8 @@ No,Name,Call Sign
 02,Info,       I
 03,Unlink,       U
 04,Echo,       E
-05,Czechia 230W,XLX230WL
-06,Czechia CZEW,XLXCZEWL
+05,Czechia CZEW,XLXCZEWL
+06,Czechia 230W,XLX230WL
 07,Czechia CZEB,XLXCZEBL
 08,Czechia 230B,XLX230BL
 09,Czechia CZEU,XLXCZEUL
@@ -18,6 +18,6 @@ No,Name,Call Sign
 17,Czechia 230T,XLX230TL
 18,Czechia 230S,XLX230SL
 19,Czechia CZES,XLXCZESL
-20,Czechia CZEC,XLXCZECL
+20,Czechia 230C,XLX230CL
 21,Czechia CZEA,XLXCZEAL
-22,Czechia 230C,XLX230CL
+22,Czechia CZEC,XLXCZECL
