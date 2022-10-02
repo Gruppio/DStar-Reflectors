@@ -4,9 +4,9 @@ No,Name,Call Sign
 03,Unlink,       U
 04,Echo,       E
 05,Switzerland 229A,XLX229AL
-06,Switzerland 328B,XLX328BL
-07,Switzerland 229D,XLX229DL
-08,Switzerland 115A,XLX115AL
+06,Switzerland 229D,XLX229DL
+07,Switzerland 115A,XLX115AL
+08,Switzerland 328B,XLX328BL
 09,Switzerland 328D,XLX328DL
 10,Switzerland 229F,XLX229FL
 11,Switzerland 133A,XLX133AL
@@ -16,4 +16,5 @@ No,Name,Call Sign
 15,Switzerland 229G,XLX229GL
 16,Switzerland 229H,XLX229HL
 17,Switzerland 115I,XLX115IL
-18,Switzerland 115S,XLX115SL
+18,Switzerland 229J,XLX229JL
+19,Switzerland 115S,XLX115SL
