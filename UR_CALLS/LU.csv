@@ -4,8 +4,8 @@ No,Name,Call Sign
 03,Unlink,       U
 04,Echo,       E
 05,Luxembourg 270B,XLX270BL
-06,Luxembourg 032B,XLX032BL
-07,Luxembourg 950B,XLX950BL
+06,Luxembourg 950B,XLX950BL
+07,Luxembourg 032B,XLX032BL
 08,Luxembourg 270A,XLX270AL
 09,Luxembourg 950F,XLX950FL
 10,Luxembourg 950E,XLX950EL
@@ -15,3 +15,5 @@ No,Name,Call Sign
 14,Luxembourg 032C,XLX032CL
 15,Luxembourg 032E,XLX032EL
 16,Luxembourg 270E,XLX270EL
+17,Luxembourg 270Z,XLX270ZL
+18,Luxembourg 270P,XLX270PL
