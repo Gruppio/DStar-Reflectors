@@ -3,10 +3,10 @@ No,Name,Call Sign
 02,Info,       I
 03,Unlink,       U
 04,Echo,       E
-05,United States 621A,XLX621AL
-06,United States 303D,XLX303DL
-07,United States 038A,XLX038AL
-08,United States 004B,XLX004BL
+05,United States 303D,XLX303DL
+06,United States 621A,XLX621AL
+07,United States 004B,XLX004BL
+08,United States 038A,XLX038AL
 09,United States 020A,XLX020AL
 10,United States 978C,XLX978CL
 11,United States 351C,XLX351CL
@@ -15,8 +15,8 @@ No,Name,Call Sign
 14,United States 351A,XLX351AL
 15,United States 757A,XLX757AL
 16,United States 258A,XLX258AL
-17,United States 072A,XLX072AL
-18,United States 295A,XLX295AL
+17,United States 295A,XLX295AL
+18,United States 072A,XLX072AL
 19,United States 303H,XLX303HL
 20,United States 004C,XLX004CL
 21,United States 221A,XLX221AL
@@ -25,14 +25,14 @@ No,Name,Call Sign
 24,United States 625A,XLX625AL
 25,United States 720D,XLX720DL
 26,United States GUSB,XLXGUSBL
-27,United States 303A,XLX303AL
-28,United States 469B,XLX469BL
-29,United States ARGB,XLXARGBL
-30,United States 303F,XLX303FL
+27,United States ARGB,XLXARGBL
+28,United States 303F,XLX303FL
+29,United States 303A,XLX303AL
+30,United States 469B,XLX469BL
 31,United States ARGS,XLXARGSL
-32,United States 059A,XLX059AL
+32,United States 101B,XLX101BL
 33,United States 037A,XLX037AL
-34,United States 101B,XLX101BL
+34,United States 059A,XLX059AL
 35,United States 004D,XLX004DL
 36,United States 004F,XLX004FL
 37,United States 632A,XLX632AL
@@ -45,11 +45,11 @@ No,Name,Call Sign
 44,United States 020D,XLX020DL
 45,United States 043A,XLX043AL
 46,United States 407C,XLX407CL
-47,United States 209C,XLX209CL
+47,United States 013A,XLX013AL
 48,United States 816A,XLX816AL
-49,United States 000S,XLX000SL
-50,United States 013A,XLX013AL
-51,United States 980A,XLX980AL
-52,United States 303E,XLX303EL
-53,United States 689M,XLX689ML
-54,United States 004A,XLX004AL
+49,United States 209C,XLX209CL
+50,United States 000S,XLX000SL
+51,United States 004A,XLX004AL
+52,United States 980A,XLX980AL
+53,United States 303E,XLX303EL
+54,United States 313A,XLX313AL
